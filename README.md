@@ -1,6 +1,8 @@
 ## Renaming Perl 6
 
-[Original posting](https://www.reddit.com/r/perl6/comments/ctw5q3/consequences_for_perl_6_after_renaming)
+External resources:
+* [Original posting](https://www.reddit.com/r/perl6/comments/ctw5q3/consequences_for_perl_6_after_renaming)
+* [The perl6/problem-solving PR](https://github.com/perl6/problem-solving/pull/89)
 
 Technical coordination and planning around the Perl 6 renaming
 
