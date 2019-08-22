@@ -1,5 +1,20 @@
 ## ecosystem
 
+### Concerns
+
+* Does META6.json need to change its name?
+* Do we need to change the CPAN directory entry for Perl 6 modules (currently `Perl6`)?
+* Lots of cocerns that touch on [domain names](../domains) such as where https://modules.perl6.org/ lives.
+
+### Resources
+
+* https://modules.perl6.org/
+* https://github.com/perl6/ecosystem
+* https://ecosystem-api.p6c.org/projects.json
+* https://modules.perl6.org/search/?q=from%3Acpan
+
+### Boilerplate
+
 From the initial outline:
 
 * Can we enumerate exactly what falls into the item (for `.perl`, this is easy, for editor plugins, maybe not so much...)
