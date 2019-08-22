@@ -1,6 +1,6 @@
 ## Remaining Perl 6
 
-[Original posting] (https://www.reddit.com/r/perl6/comments/ctw5q3/consequences_for_perl_6_after_renaming)
+[Original posting](https://www.reddit.com/r/perl6/comments/ctw5q3/consequences_for_perl_6_after_renaming)
 
 Technical coordination and planning around the Perl 6 renaming
 
