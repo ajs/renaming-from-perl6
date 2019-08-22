@@ -1,5 +1,21 @@
 ## domains
 
+This touches broadly on many high-level topics:
+
+### SEO concerns: "how do you search for the new name?"
+
+* www.google.com/search?q=perl6 - How do we ensure that searches for our new name are equally useful?
+
+### Sites
+
+Major Perl 6 sites that use Perl 6 in their names:
+
+* p6weekly.wordpress.com
+* perl6.org (note that perl6 dot com appears to be a hijacked and now malicious site)
+* perl6advent.wordpress.com
+
+### Boilerplate
+
 From the initial outline:
 
 * Can we enumerate exactly what falls into the item (for `.perl`, this is easy, for editor plugins, maybe not so much...)
