@@ -1,5 +1,13 @@
 ## third-party-documentation
 
+### Major places that Perl 6 is documented outside of the Perl 6 project universe
+
+* https://en.wikipedia.org/wiki/Category:Perl_6
+* https://stackoverflow.com/questions/tagged/perl6
+* https://rosettacode.org/wiki/Category:Perl_6
+
+### Boilerplate
+
 From the initial outline:
 
 * Can we enumerate exactly what falls into the item (for `.perl`, this is easy, for editor plugins, maybe not so much...)
