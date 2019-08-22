@@ -1,5 +1,15 @@
 ## projects
 
+Projects (both on and off of github, but on is easier) that have Perl 6 naming.
+
+### API
+
+We can begin with this query:
+
+    https://api.github.com/search/repositories?q=perl6
+
+### Boilerplate
+
 From the initial outline:
 
 * Can we enumerate exactly what falls into the item (for `.perl`, this is easy, for editor plugins, maybe not so much...)
