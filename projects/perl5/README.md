@@ -1,5 +1,22 @@
 ## perl5
 
+References to the "Perl 6" name in the Perl 5 language and related support/modules/etc.
+
+Note that this does not include the [CPAN hosting for Perl 6 ecosystem modules](../ecosystem)
+but it does include CPAN modules for Perl 5 that reference Perl 6.
+
+This URL:
+
+    https://metacpan.org/search?q=perl6
+    
+May be a useful starting point.
+
+It's almost certainly the case that most of this does not *need* to change and will probably
+be updated be individual maintainers in the fullness of time... But figuring that out is the
+point of this project...
+
+### Boilerplate
+
 From the initial outline:
 
 * Can we enumerate exactly what falls into the item (for `.perl`, this is easy, for editor plugins, maybe not so much...)
